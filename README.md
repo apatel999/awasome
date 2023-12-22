@@ -8,3 +8,6 @@ https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-cluster
 https://12factor.net/
 
 https://github.com/jwasham/coding-interview-university
+
+Books and notes
+https://github.com/keyvanakbary/learning-notes
