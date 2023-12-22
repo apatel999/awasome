@@ -9,5 +9,4 @@ https://12factor.net/
 
 https://github.com/jwasham/coding-interview-university
 
-Books and notes
-https://github.com/keyvanakbary/learning-notes
+Books and notes : https://github.com/keyvanakbary/learning-notes
