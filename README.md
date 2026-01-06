@@ -18,3 +18,7 @@ https://www.techinterviewhandbook.org/
 Docker images
 ASP.NET build
 https://blog.sixeyed.com/dockerizing-net-apps-with-microsofts-build-images-on-docker-hub/
+
+Books: 
+Oreilly, Scrum etc
+https://github.com/manish-old/ebooks-2
